@@ -24,7 +24,7 @@ import uuid as uuidm
 
 from collections import OrderedDict
 
-from emmett_crypto import kdf
+from emmett-crypto import kdf
 
 # TODO: check bytes conversions
 from ._shortcuts import to_bytes
